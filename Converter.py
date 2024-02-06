@@ -1,5 +1,5 @@
 #2/5/2024
-#This program converts C to F and F to C
+#This program converts Celsius to Fahrenheit and Fahrenheit to Celsius
 
 from tkinter import *
 frame = Tk() #creating the application main window
